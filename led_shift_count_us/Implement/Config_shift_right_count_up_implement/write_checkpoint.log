@@ -1,9 +1,0 @@
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 4270.863 ; gain = 0.000 ; free physical = 201 ; free virtual = 4827
-INFO: [Timing 38-480] Writing timing data to binary archive.
-Writing placer database...
-Writing XDEF routing.
-Writing XDEF routing logical nets.
-Writing XDEF routing special nets.
-Write XDEF Complete: Time (s): cpu = 00:00:00.07 ; elapsed = 00:00:00.03 . Memory (MB): peak = 4270.863 ; gain = 0.000 ; free physical = 198 ; free virtual = 4827
-Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 4270.863 ; gain = 0.000 ; free physical = 198 ; free virtual = 4828
-INFO: [Common 17-1381] The checkpoint '/home/ict/led_shift_count/led_shift_count_us/Implement/Config_shift_right_count_up_implement/top_static.dcp' has been generated.
